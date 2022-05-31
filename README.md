@@ -7,6 +7,9 @@ this account was made for archival purposes, any decent finished projects are up
 current languages i know:
 
 html (fluent)
+
 css (fluent)
+
 javascript (intermediate)
+
 json (decent)
